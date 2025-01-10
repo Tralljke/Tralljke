@@ -6,6 +6,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Petr_Bel">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</div>
+<div id="codewars" align="center">
+ </a>
+    <a href="https://www.codewars.com/users/Tralljke">
+    <img src="https://www.codewars.com/users/Tralljke/badges/small" alt="Codewars Badge"/>
   </a>
 </div>
